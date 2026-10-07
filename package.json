@@ -1,0 +1,15 @@
+{
+  "name": "ramera-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "@google/genai": "^2.27.0",
+    "dotenv": "latest",
+    "express": "latest",
+    "openai": "latest"
+  }
+}
